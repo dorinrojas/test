@@ -1,0 +1,30 @@
+---
+title: "Introduction"
+author: "Dorian Rojas-Villalta"
+date: "2024-12-09"
+output: 
+  html_document:
+    fig_caption: yes 
+    theme: cerulean 
+    toc: yes
+    toc_depth: 3
+    toc_float: yes
+---
+
+# Week 3 Demon
+
+This is a demo of a landing page
+
+## Instalation 
+
+```
+# No install needed
+```
+
+## Ouput
+
+Here is what 'plot.R' does
+
+```{r}
+```
+
